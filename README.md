@@ -166,7 +166,7 @@ A visualização é uma representação matricial da evolução binária. Embora
 
 ### 4.2. Laboratório 02 — Sonificação Algorítmica
 
-**Arquivo:** `collatz_automaton_audio.py`
+**Arquivo:** `collatz_automato_audio.py`
 
 Esta implementação incorpora os recursos matemáticos e visuais do primeiro laboratório e acrescenta uma camada de representação sonora.
 
@@ -403,7 +403,7 @@ collatz-laboratory/
 │
 ├── collatz_automato.py
 │
-└── collatz_automaton_audio.py
+└── collatz_automato_audio.py
 ```
 
 ### Descrição dos arquivos
@@ -412,7 +412,7 @@ collatz-laboratory/
 |---|---|
 | `README.md` | Documentação científica e técnica do projeto |
 | `collatz_automato.py` | Laboratório de visualização binária e colorida |
-| `collatz_automaton_audio.py` | Laboratório de visualização binária e sonificação |
+| `collatz_automato_audio.py` | Laboratório de visualização binária e sonificação |
 
 Os dois programas são executáveis independentemente.
 
@@ -439,7 +439,7 @@ python collatz_automato.py
 ### 11.3. Executar o laboratório de sonificação
 
 ```bash
-python collatz_automaton_audio.py
+python collatz_automato_audio.py
 ```
 
 ### 11.4. Interação com os laboratórios
